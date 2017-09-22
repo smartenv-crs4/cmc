@@ -1,0 +1,12 @@
+[submodule "cmc-auth"]
+	path = cmc-auth
+	url = git@github.com:smartenv-crs4/cmc-auth.git
+[submodule "cmc-user"]
+	path = cmc-user
+	url = git@github.com:smartenv-crs4/cmc-user.git
+[submodule "cmc-app"]
+	path = cmc-app
+	url = git@github.com:smartenv-crs4/cmc-app.git
+[submodule "cmc-upload"]
+	path = cmc-upload
+	url = git@github.com:smartenv-crs4/cmc-upload.git
