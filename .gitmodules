@@ -10,3 +10,6 @@
 [submodule "cmc-upload"]
 	path = cmc-upload
 	url = git@github.com:smartenv-crs4/cmc-upload.git
+[submodule "cmc-mailer"]
+	path = cmc-mailer
+	url = git@github.com:smartenv-crs4/cmc-mailer.git
