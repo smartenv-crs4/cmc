@@ -13,3 +13,6 @@
 [submodule "cmc-mailer"]
 	path = cmc-mailer
 	url = ../cmc-mailer.git
+[submodule "cmc-iot"]
+	path = cmc-iot
+	url = git@github.com:smartenv-crs4/cmc-iot.git
